@@ -1,3 +1,4 @@
+# Deprecated in favor of Go version which is about 10x faster https://github.com/adamcamp/camera-event-handler
 # nest-push-subscriber
 Pushes Nest events to OpenHAB
 
